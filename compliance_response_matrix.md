@@ -125,7 +125,7 @@ Failure to comply may result in:
 
 ## 3.7 Draft Response – Lukas (Germany – GDPR)
 
-**Subject: Confirmation of Erasure Request – Article 17 GDPR**
+**Subject: Confirmation of Erasure Request**
 
 Dear Lukas,
 
@@ -193,7 +193,7 @@ ShopGhana must disclose:
 
 4.7 Draft Response – Maria (California – CCPA/CPRA)
 
-**Subject: Response to CCPA/CPRA Privacy Request**
+**Subject: Response to Your Privacy Request**
 
 Dear Maria,
 
