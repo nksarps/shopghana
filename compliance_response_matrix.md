@@ -58,6 +58,24 @@ ShopGhana must:
 - Non-essential profile data.
 
 
+## 2.5 Draft Response – Abena (Ghana)
+
+**Subject: Response to Data Deletion Request**
+
+Dear Abena,
+
+We acknowledge receipt of your request to delete your account and personal information under the Data Protection Act, 2012 (Act 843).
+
+Following review, your account profile, marketing preferences, and other non-essential personal data have been deleted from our active systems.
+
+Please note that certain transaction and accounting records must be retained to comply with statutory tax and financial record-keeping obligations under Ghanaian law. These records will be securely stored, restricted from non-essential processing, and deleted after the legally required retention period expires.
+
+If you require further clarification, please contact our Data Protection Officer.
+
+Kind regards,  
+**ShopGhana**
+
+
 # 3. Customer B – Lukas (Germany – GDPR)
 
 ## 3.1 Applicable Legal Framework  
@@ -103,6 +121,24 @@ Failure to comply may result in:
 
 - Regulatory investigation;  
 - Administrative fines up to **€20 million or 4% of global annual turnover**, whichever is higher.
+
+
+## 3.7 Draft Response – Lukas (Germany – GDPR)
+
+**Subject: Confirmation of Erasure Request – Article 17 GDPR**
+
+Dear Lukas,
+
+We confirm receipt of your request for erasure pursuant to Article 17 of the General Data Protection Regulation (GDPR).
+
+Your account profile, marketing data, and associated identifiers have been erased from our systems. We have also notified relevant third-party service providers to delete your personal data where applicable.
+
+Certain transaction records are retained solely to comply with applicable tax and accounting obligations under European Union law. These records are restricted from further processing and will be retained only for the legally mandated period.
+
+If you require further information or wish to exercise additional rights under the GDPR, you may contact our Data Protection Officer or your local supervisory authority.
+
+Kind regards,  
+**ShopGhana**
 
 
 # 4. Customer C – Maria (California – CCPA/CPRA)
@@ -153,6 +189,24 @@ ShopGhana must disclose:
 - Purpose of processing;  
 - Categories of third parties;  
 - Explanation for any partial denial of deletion.
+
+
+4.7 Draft Response – Maria (California – CCPA/CPRA)
+
+**Subject: Response to CCPA/CPRA Privacy Request**
+
+Dear Maria,
+
+We acknowledge receipt of your request under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA).
+
+Your request to opt out of the sale or sharing of personal information has been processed effective immediately. Your information will no longer be sold or shared with third parties for commercial purposes.
+
+With respect to your deletion request, we are currently required to retain certain personal information due to an active return dispute associated with your recent transaction. This retention is necessary to complete the transaction and to protect our legal rights. Upon resolution of the dispute, we will proceed with deletion in accordance with applicable law.
+
+You may request additional details regarding the categories of personal information we collect, use, or disclose at any time.
+
+Kind regards,  
+**ShopGhana**
 
 
 # 5. Comparative Analysis
